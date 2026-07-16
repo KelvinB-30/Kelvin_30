@@ -50,4 +50,4 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://linkedin.com/in/kelvin29)
+[![https://linkedin.com/in/kelvin29]
