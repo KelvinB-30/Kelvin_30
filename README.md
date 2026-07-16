@@ -40,14 +40,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" alt="streak" width="48%" />
-</p>
-
----
-
 ### 🔗 Connect with Me
-[![https://linkedin.com/in/kelvin29]
+[[https://linkedin.com/in/kelvin29]]
